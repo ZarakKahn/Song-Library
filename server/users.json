@@ -1,0 +1,60 @@
+[
+    {
+      "username": "zarak@email.com",
+      "password": "password123"
+    },
+    {
+      "username": "shahwaiz@email.com",
+      "password": "mypassword1"
+    },
+    {
+        "username": "ali@email.com",
+        "password": "password1234"
+      },
+      {
+        "username": "khan@email.com",
+        "password": "mypassword2"
+      }, {
+        "username": "yasir@email.com",
+        "password": "password1235"
+      },
+      {
+        "username": "javad@email.com",
+        "password": "mypassword3"
+      }, {
+        "username": "umer@email.com",
+        "password": "password1236"
+      },
+      {
+        "username": "imran@email.com",
+        "password": "mypassword4"
+      }, {
+        "username": "asim",
+        "password": "password1237"
+      },
+      {
+        "username": "amir@email.com",
+        "password": "mypassword5"
+      }, {
+        "username": "rashid@email.com",
+        "password": "password1238"
+      },
+      {
+        "username": "nooh@email.com",
+        "password": "mypassword6"
+      }, {
+        "username": "testuser@email.com",
+        "password": "password1239"
+      },
+      {
+        "username": "munir@email.com",
+        "password": "mypassword7"
+      }, {
+        "username": "jawad@email.com",
+        "password": "password1230"
+      },
+      {
+        "username": "raza@email.com",
+        "password": "mypassword8"
+      }
+  ]
